@@ -1,0 +1,15 @@
+C:\gb.ru\задания на семинарах\Знакомство с c#\6 семинар\3 task\bin\Debug\net6.0\3 task.exe
+C:\gb.ru\задания на семинарах\Знакомство с c#\6 семинар\3 task\bin\Debug\net6.0\3 task.deps.json
+C:\gb.ru\задания на семинарах\Знакомство с c#\6 семинар\3 task\bin\Debug\net6.0\3 task.runtimeconfig.json
+C:\gb.ru\задания на семинарах\Знакомство с c#\6 семинар\3 task\bin\Debug\net6.0\3 task.dll
+C:\gb.ru\задания на семинарах\Знакомство с c#\6 семинар\3 task\bin\Debug\net6.0\3 task.pdb
+C:\gb.ru\задания на семинарах\Знакомство с c#\6 семинар\3 task\obj\Debug\net6.0\3 task.csproj.AssemblyReference.cache
+C:\gb.ru\задания на семинарах\Знакомство с c#\6 семинар\3 task\obj\Debug\net6.0\3 task.GeneratedMSBuildEditorConfig.editorconfig
+C:\gb.ru\задания на семинарах\Знакомство с c#\6 семинар\3 task\obj\Debug\net6.0\3 task.AssemblyInfoInputs.cache
+C:\gb.ru\задания на семинарах\Знакомство с c#\6 семинар\3 task\obj\Debug\net6.0\3 task.AssemblyInfo.cs
+C:\gb.ru\задания на семинарах\Знакомство с c#\6 семинар\3 task\obj\Debug\net6.0\3 task.csproj.CoreCompileInputs.cache
+C:\gb.ru\задания на семинарах\Знакомство с c#\6 семинар\3 task\obj\Debug\net6.0\3 task.dll
+C:\gb.ru\задания на семинарах\Знакомство с c#\6 семинар\3 task\obj\Debug\net6.0\refint\3 task.dll
+C:\gb.ru\задания на семинарах\Знакомство с c#\6 семинар\3 task\obj\Debug\net6.0\3 task.pdb
+C:\gb.ru\задания на семинарах\Знакомство с c#\6 семинар\3 task\obj\Debug\net6.0\3 task.genruntimeconfig.cache
+C:\gb.ru\задания на семинарах\Знакомство с c#\6 семинар\3 task\obj\Debug\net6.0\ref\3 task.dll
